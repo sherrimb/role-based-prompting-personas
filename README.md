@@ -1,8 +1,9 @@
 # Role-Based Prompting Personas
+This project demonstrates role-based prompt engineering in Python by designing and validating three AI personas for business analysis and decision-making.
+## Why this matters
+Role-based prompting helps guide AI responses by assigning structured perspectives, improving clarity, consistency, and usefulness in real-world scenarios.## What I built
 
-This project is a Python exercise focused on role-based prompting for AI.
 
-## What I built
 I created three business personas:
 - Business Analyst
 - Market Researcher
